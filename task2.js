@@ -1,4 +1,3 @@
-
 // Завдання 1.1 — Площа кола
 let radiusCircle = 5;
 let circleArea = Math.PI * radiusCircle ** 2;
